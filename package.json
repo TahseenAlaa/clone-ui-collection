@@ -1,0 +1,25 @@
+{
+  "name": "clone-ui-collection",
+  "version": "1.0.0",
+  "description": "Clone the design of websites, For educational purposes only.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TahseenAlaa/clone-ui-collection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TahseenAlaa/clone-ui-collection/issues"
+  },
+  "homepage": "https://github.com/TahseenAlaa/clone-ui-collection#readme",
+  "dependencies": {
+    "autoprefixer": "^10.0.4",
+    "postcss-cli": "^8.3.0",
+    "tailwindcss": "^2.0.1"
+  }
+}
