@@ -22,5 +22,8 @@
     "postcss": "^8.1.10",
     "postcss-cli": "^8.3.0",
     "tailwindcss": "^2.0.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.13"
   }
 }
