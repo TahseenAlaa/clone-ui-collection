@@ -1,0 +1,29 @@
+{
+  "name": "clone-ui-collection",
+  "version": "1.0.0",
+  "description": "Clone the design of websites, For educational purposes only.",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss assets/css/tailwind.css -o public/css/app.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TahseenAlaa/clone-ui-collection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TahseenAlaa/clone-ui-collection/issues"
+  },
+  "homepage": "https://github.com/TahseenAlaa/clone-ui-collection#readme",
+  "dependencies": {
+    "autoprefixer": "^10.0.4",
+    "postcss": "^8.1.10",
+    "postcss-cli": "^8.3.0",
+    "tailwindcss": "^2.0.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.13"
+  }
+}
